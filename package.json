@@ -10,7 +10,6 @@
     "eject": "next eject"
   },
   "dependencies": {
-    "@toast-ui/react-image-editor": "^3.15.2",
     "next": "13.5.4",
     "node-loader": "^2.0.0",
     "react": "^18",
