@@ -1,0 +1,58 @@
+ /* tui-image-editor start */
+ .tui-image-editor-header-logo {
+     display: none;
+ }
+
+ .tui-image-editor-header-buttons{
+    display: none;
+ }
+
+ .tui-image-editor-header-buttons :first-child {
+     display: none !important;
+ }
+
+ .tui-image-editor-container {
+     background-color: #f0f0f0;
+     border: 1px solid rgb(241, 241, 241);
+     border-radius: 20px;
+     overflow: hidden;
+ }
+
+ .tui-image-editor-main-container {
+     background-color: white !important;
+ }
+
+ .tui-image-editor-menu {
+     background-color: white !important;
+ }
+
+ .tui-image-editor-header {
+     background-color: white !important;
+
+ }
+
+ .tui-image-editor-wrap {
+     background-color: white !important;
+ }
+
+ .tui-image-editor-submenu-style {
+     background-color: white !important;
+ }
+
+ .tui-image-editor-controls{
+    background-color: white !important;
+ }
+
+ .tui-colorpicker-clearfix input {
+     min-width: 10px !important;
+     min-height: 10px !important;
+ }
+
+ .tui-colorpicker-clearfix {
+     height: fit-content;
+     display: flex;
+     width: fit-content;
+     flex-wrap: wrap;
+ }
+
+ /* tui image editor end */
